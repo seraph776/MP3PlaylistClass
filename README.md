@@ -9,7 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/seraph776/MP3PlaylistClass?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/seraph776/MP3PlaylistClass?color=blue&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/MP3PlaylistClass?color=yellow&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/seraph776/MP3PlaylistClass?style=for-the-badge)
+[![GitHub](https://img.shields.io/github/license/seraph776/MP3PlaylistClass?style=for-the-badge)](https://github.com/seraph776/MP3PlaylistClass/blob/main/LICENSE)
   
  
 <img src="https://user-images.githubusercontent.com/72005563/177398798-1e2f2409-531c-46d8-8213-33e83855704b.png" height=150>
