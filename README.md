@@ -45,7 +45,7 @@ This is my code to the MP3 PlayList Class challenge posted on [101 Computing.net
 - `Python 3.0 +` 
 
 ### 📚 Libraries
-- `sys`, `os`, `random`, `collections`, `datetime`
+- `collections`, `datetime`, `os`, `random`, `sys`
 
 ## 📫 Contact 
 
@@ -63,4 +63,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - [Shields IO](https://shields.io/)
 - [Choose a License](https://choosealicense.com/licenses/mit/)
+- [101 Computing.Net](https://www.101computing.net/)
 
