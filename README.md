@@ -6,9 +6,9 @@
 
 ![made-with-Python](https://img.shields.io/badge/Python-536878?&logo=python&logoColor=white&labelColor=black&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/MP3PlaylistClass?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seraph776/MP3PlaylistClass?style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/seraph776/MP3PlaylistClass?style=for-the-badge)](https://github.com/seraph776/MP3PlaylistClass/fork)
 ![GitHub contributors](https://img.shields.io/github/contributors/seraph776/MP3PlaylistClass?color=blue&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/MP3PlaylistClass?color=yellow&style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/MP3PlaylistClass?color=yellow&style=for-the-badge)](https://github.com/seraph776/MP3PlaylistClass/issues)
 [![GitHub](https://img.shields.io/github/license/seraph776/MP3PlaylistClass?style=for-the-badge)](https://github.com/seraph776/MP3PlaylistClass/blob/main/LICENSE)
   
  
