@@ -47,6 +47,28 @@ This is my code to the MP3 PlayList Class challenge posted on [101 Computing.net
 ### 📚 Libraries
 - `collections`, `datetime`, `os`, `random`, `sys`
 
+
+
+## ⚡QuickStart
+
+1. Download [zip file](https://github.com/seraph776/MP3PlaylistClass/archive/refs/heads/main.zip)
+2. Extract zip files
+3. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html) from within the extracted zip file location:
+```python
+python -m venv project-env
+```
+
+4. Activate virtual environment:
+```python
+project-env\scripts\activate.bat
+```
+
+5. Run the application from within virtual environment:
+```python
+python app\main.py
+```
+
+
 ## 📫 Contact 
 
 If you have any questions or wish to collaborate please contact me
