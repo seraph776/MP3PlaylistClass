@@ -30,10 +30,10 @@ class PlayList:
 
     def load_playlist(self):
         """Loads a saved playlist, and displays its contents"""
-        if not os.path.isfile(self.filename):
+        if not os.path.isfile(os.path.join('music_files', self.filename)):
             print(f'{self.title} could not be loaded.\n{self.filename} does not exists!', file=sys.stderr)
         else:
-            with open(self.filename) as file_obj:
+            with open(os.path.join('music_files', self.filename)) as file_obj:
                 song_list = [i.strip().split(',') for i in file_obj]
             for song in song_list:
                 self.add_track(Track(song[0], song[1], song[2]))
@@ -43,7 +43,7 @@ class PlayList:
         """Saves the current playlist in a textfile"""
         self.filename = self.filename if filename is None else filename
 
-        with open(self.filename, 'w+') as file_object:
+        with open(os.path.join('music_files', self.filename), 'w+') as file_object:
             for track in self.tracks:
                 song, artist, duration = track.title, track.artist, track.duration
                 file_object.write(f'{song},{artist},{duration}' + '\n')
