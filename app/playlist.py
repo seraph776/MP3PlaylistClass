@@ -22,7 +22,7 @@ class PlayList:
         """Initialize attributes."""
         self.title = title
         self.filename = filename
-        self.tracks = []
+        self.tracks: list[Track]= []
 
     def __repr__(self) -> str:
         """String representation the class."""
